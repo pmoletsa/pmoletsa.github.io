@@ -19,8 +19,8 @@ pagination:
 <div class="post">
 
   <div class="header-bar">
-    <h3>📚 I Donated Books in Khayelitsha and Let Learners Pick Their Book Language</h3>
-    <h2></h2>
+    <h3>📚 Personalized Support</h3>
+    <h2>I Donated Books in Khayelitsha and Let Learners Pick Their Book Language</h2>
   </div>
 
   <div class="content">

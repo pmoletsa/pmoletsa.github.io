@@ -40,6 +40,34 @@ body.sticky-bottom-footer {
   }
 }
 
+//added
+.post a {
+  font-weight: 700;
+}
+
+.post h2,
+.post h2 a,
+.post article h2,
+.post article h2 a {
+  font-weight: 400 !important;
+  font-size: 1.8rem;
+}
+
+.news .italic,
+.news em,
+.news i {
+  color: var(--global-theme-color);
+}
+
+.citation-line {
+  display: inline;
+}
+
+.citation-line .author,
+.citation-line .periodical {
+  display: inline;
+}
+
 // Content layout uses Bootstrap's grid system with responsive columns
 // Main content flows naturally through container-mt-5 and Bootstrap grid classes
 // See _layouts/default.liquid and _includes/projects.liquid for examples

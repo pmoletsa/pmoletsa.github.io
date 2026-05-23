@@ -87,8 +87,9 @@
 
       .title {
         font-weight: bold;
-        color: #00008B;
-         font-size: 1.1rem;
+        //color: #00008B;
+        color:var(--global-theme-color);
+         //font-size: 1.1rem;
       }
 
       .author {

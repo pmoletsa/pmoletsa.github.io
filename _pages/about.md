@@ -26,9 +26,9 @@ latest_posts:
 
 Hello! Dumelang! Sanibonani! 👋🏿
 
-Welcome to my website! I am Phenyo (pronounced Peh-nyo). I am a PhD student in the [Human-Computer Interaction Institute](https://hcii.cmu.edu) at Carnegie Mellon University, advised by [Amy Ogan](https://www.amyogan.com) and [Paulo Carvalho](https://www.paulocarvalho.me).
+Welcome to my website! I am Phenyo (pronounced Peh-nyo), a PhD student in the [Human-Computer Interaction Institute](https://hcii.cmu.edu) at Carnegie Mellon University, advised by [Amy Ogan](https://www.amyogan.com) and [Paulo Carvalho](https://www.paulocarvalho.me).
 
-**Research**
+**Research Interests**
 
 My work focuses on Educational Technologies (EdTech) and Learning Sciences, where I explore how language and educational technology come together to shape learning for multilingual students. Language is central to how we learn, communicate and make sense of the world. Globally, there are over 7,000 languages. Yet, despite these linguistically diverse and multilingual realities, education remains largely monolingual. Research has long shown the value of multilingualism and learning in one's home language, but what does that actually look like in EdTech?, and how can EdTech better support such learning?
 
@@ -36,6 +36,6 @@ I use both quantitative and qualitative methods to understand how multilingual l
 
 **Outside of Research**
 
-When I am not doing research, you will probably find me doing Pilates or Barre, or working on my flexibility. I also take beginner ballet classes, which I recently started and absolutely love! Outside of movement practice, I enjoy reading literature and have recently started exploring existential and absurdist themes, including the works of Fyodor Dostoevsky and Franz Kafka. I am passionate about promoting a reading culture for children. I organize book donation drives, with a focus on locally authored and culturally relevant story books in South African townships and rural schools.
+When I am not doing research, you will probably find me doing Pilates or Barre, or working on my flexibility. I also take beginner ballet classes, which I recently started and absolutely love! Outside of movement practice, I enjoy reading literature and have recently developed an interest in existential and absurdist themes, including the works of Fyodor Dostoevsky and Franz Kafka. I am passionate about promoting a reading culture for children. I organize book donation drives in South African townships and rural schools, with a focus on locally authored and culturally relevant story books. 
 
 I am always excited to connect and collaborate with people who care about culture, languages, learning, and technology! Feel free to email me at pmoletsa at andrew dot cmu dot edu — I would love to connect!
