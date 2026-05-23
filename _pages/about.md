@@ -1,17 +1,14 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+nav: true
+nav_order: 1
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -19,17 +16,26 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit:  # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! Dumelang! Sanibonani! 
+Hello! Dumelang! Sanibonani! 👋🏿
 
-Welcome to my website! I am a PhD student in the [Human-Computer Interaction Institute](https://hcii.cmu.edu) at Carnegie Mellon University.
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Welcome to my website! I am Phenyo (pronounced Peh-nyo). I am a PhD student in the [Human-Computer Interaction Institute](https://hcii.cmu.edu) at Carnegie Mellon University, advised by [Amy Ogan](https://www.amyogan.com) and [Paulo Carvalho](https://www.paulocarvalho.me).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Research**
+
+My work focuses on Educational Technologies (EdTech) and Learning Sciences, where I explore how language and educational technology come together to shape learning for multilingual students. Language is central to how we learn, communicate and make sense of the world. Globally, there are over 7,000 languages. Yet, despite these linguistically diverse and multilingual realities, education remains largely monolingual. Research has long shown the value of multilingualism and learning in one's home language, but what does that actually look like in EdTech?, and how can EdTech better support such learning?
+
+I use both quantitative and qualitative methods to understand how multilingual learners engage with educational technologies that include local languages — the challenges they face, language use patterns, and how this shapes their learning outcomes, persistence, and participation. My goal is to inform the design of technologies that better support multilingual learners and create more inclusive and meaningful learning environments.
+
+**Outside of Research**
+
+When I am not doing research, you will probably find me doing Pilates or Barre, or working on my flexibility. I also take beginner ballet classes, which I recently started and absolutely love! Outside of movement practice, I enjoy reading literature and have recently started exploring existential and absurdist themes, including the works of Fyodor Dostoevsky and Franz Kafka. I am passionate about promoting a reading culture for children. I organize book donation drives, with a focus on locally authored and culturally relevant story books in South African townships and rural schools.
+
+I am always excited to connect and collaborate with people who care about culture, languages, learning, and technology! Feel free to email me at pmoletsa at andrew dot cmu dot edu — I would love to connect!

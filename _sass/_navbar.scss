@@ -68,14 +68,15 @@
   }
 
   .navbar-nav .nav-item.active > .nav-link {
-    background-color: inherit;
-    font-weight: bolder;
-    color: var(--global-theme-color);
+  background-color: var(--global-theme-color);
+  color: white !important;
+  font-weight: 600;
 
-    &:hover {
-      color: var(--global-hover-color);
-    }
+  &:hover {
+    color: white !important;
+    background-color: var(--global-theme-color);
   }
+}
 
   .navbar-brand.social {
     padding-bottom: 0;
@@ -187,4 +188,68 @@
   &:hover {
     color: var(--global-hover-color);
   }
+}
+
+#search-toggle {
+  padding: 0;
+  border: 0;
+  background-color: inherit;
+  color: var(--global-text-color);
+
+  &:hover {
+    color: var(--global-hover-color);
+  }
+}
+
+/* ✅ ADD THIS BELOW EVERYTHING */
+/* CENTER THE NAVBAR */
+.navbar .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Center collapsed nav area */
+.navbar-collapse {
+  display: flex !important;
+  justify-content: center !important;
+  flex-grow: 0 !important;
+}
+
+/* Center menu items */
+.navbar-nav {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  margin: 0 auto;
+}
+
+/* TAB STYLE */
+.navbar-nav .nav-link {
+  padding: 10px 18px;
+  border-radius: 999px;
+  transition: all 0.25s ease;
+  font-weight: 500;
+  background-color: transparent;
+}
+
+/* HOVER */
+.navbar-nav .nav-link:hover {
+  background-color: rgba(120, 120, 120, 0.12);
+}
+
+/* ACTIVE / CURRENT PAGE */
+.navbar-nav .nav-item.active .nav-link {
+  background-color: var(--global-theme-color);
+  color: white !important;
+}
+
+/* Optional smoother hover */
+.navbar-nav .nav-link {
+  transform: translateY(0);
+}
+
+.navbar-nav .nav-link:hover {
+  transform: translateY(-1px);
 }
