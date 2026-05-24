@@ -37,15 +37,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-how-do-we-make-community-support-more-personal-and-meaningful",
         
-          title: "a post with plotly.js",
+          title: "How Do We Make Community Support More Personal and Meaningful?",
         
-        description: "this is what included plotly.js code could look like",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/plotly/";
+            window.location.href = "/community-support/";
           
         },
       },{id: "post-a-post-with-image-galleries",
@@ -411,7 +411,7 @@ ninja.data = [{
           section: "News",},{id: "news-accepted-paper-at-icls-26-language-preferences-and-practices-in-multilingual-edtech-flexible-primary-language-use-with-secondary-language-support",
           title: 'Accepted paper at ICLS’26: Language Preferences and Practices in Multilingual EdTech: Flexible Primary...',
           description: "",
-          section: "News",},{id: "news-accepted-paper-at-l-s-26-our-paper-can-multilingual-environments-promote-scalable-edtech-evidence-from-a-randomized-controlled-trial-has-been-accepted-as-a-full-research-paper-to-acm-learning-scale-2026-i-will-be-presenting-this-paper-at-seoul-in-june",
+          section: "News",},{id: "news-accepted-paper-at-l-s-26-our-paper-can-multilingual-environments-promote-scalable-edtech-evidence-from-a-randomized-controlled-trial-has-been-accepted-as-a-full-research-paper-at-the-acm-learning-scale-2026-conference-i-will-present-it-in-seoul-this-june",
           title: 'Accepted paper at L@S’26 Our paper, Can Multilingual Environments Promote Scalable EdTech? Evidence...',
           description: "",
           section: "News",},{id: "projects-project-1",
