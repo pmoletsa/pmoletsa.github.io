@@ -2,17 +2,47 @@
  * Blog post and listing styles
  ******************************************************************************/
 
-.header-bar {
+//.header-bar { #removed this and replaced with below header-bar
+  //border-bottom: 1px solid var(--global-divider-color);
+  //text-align: center;
+  //padding-top: 2rem;
+  //padding-bottom: 3rem;
+
+  //h1 {
+  //  color: var(--global-theme-color);
+  //  font-size: 5rem;
+  //}
+//}
+.header-bar { //added this
   border-bottom: 1px solid var(--global-divider-color);
   text-align: center;
-  padding-top: 2rem;
-  padding-bottom: 3rem;
+  padding: 1.5rem 0 2rem 0;
 
-  h1 {
+  h1,
+  h2 {
     color: var(--global-theme-color);
-    font-size: 5rem;
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+  }
+
+  h3 {
+    font-size: 1rem;
+    color: var(--global-text-color-light);
+    font-weight: 400;
+    margin-top: 0;
+  }
+
+  a {
+    text-decoration: none;
+    color: inherit;
+
+    &:hover {
+      color: var(--global-theme-color);
+    }
   }
 }
+
 
 .tag-category-list {
   border-bottom: 1px solid var(--global-divider-color);

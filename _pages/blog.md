@@ -16,17 +16,20 @@ pagination:
     before: 1
     after: 3
 ---
-<div class="post">
+<div class="post-card">
 
-  <div class="header-bar">
-    <h3>📚 Personalized Support</h3>
-    <h2>I Donated Books in Khayelitsha and Let Learners Pick Their Book Language</h2>
-  </div>
+  <h2 class="post-title">
+    <a href="/community-support/">
+      📚 How Do We Make Community Support More Personal?
+    </a>
+  </h2>
 
-  <div class="content">
+  <p class="post-subtitle">
+    I donated books in Khayelitsha and asked learners to choose their preferred language.
+  </p>
 
-
-
-  </div>
+  <a class="read-more" href="/community-support/">
+    Read More →
+  </a>
 
 </div>
